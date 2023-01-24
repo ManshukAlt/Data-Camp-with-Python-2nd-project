@@ -1,6 +1,6 @@
 # Data-Camp-with-Python-2nd-project
 # The GitHub History of the Scala Language
-## Scala's real-world project repository data
+## 1. Scala's real-world project repository data
 #### Importing pandas
 import pandas as pd
 #### Loading in the data
